@@ -1,0 +1,36 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+header {
+  background-image: url(../imgs/manybooks.jpg);
+  height: 8em;
+  font-size: 1em;
+  background-size: cover;
+  background-position: center;
+  padding: 1.5em;
+  color: #7d0a0a;
+  text-align: right;
+  font-style: italic;
+  font-weight: 400;
+}
+.productos {
+  width: 80%;
+  margin: auto;
+}
+.productos td {
+  width: 50%;
+  padding: 2em;
+}
+.productos img {
+  width: 80%;
+  border: solid 1px #fff;
+}
+footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(175, 170, 170);
+  color: #7d0a0a;
+  text-align: center;
+  font-weight: 700;
+}
